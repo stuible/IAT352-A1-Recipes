@@ -1,0 +1,55 @@
+.validationError{
+    color: rgb(238, 78, 78);
+}
+.servingRadio{
+    margin-right: 5px; 
+    float: left;
+}
+
+.servingRadioLabel{
+    margin-right: 5px;
+    float: left;
+}
+
+.mainRecipeAddContainer{
+    background-color: rgb(243, 243, 243);
+    padding: 50px;
+    border-radius: 25px;
+    margin-top: 25px;
+}
+.errorContainer {
+    padding-left: 50px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.logoHeader{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.logoHeader img {
+    display: block;
+    margin: 0 auto;
+}
+
+.recipeList {
+    margin-top: 25px;
+}
+
+.successMessage{
+    font-size: 16px;
+    text-align: center;
+}
+
+.detailName{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.detailEntry{
+    /* margin-left: 50px; */
+}
